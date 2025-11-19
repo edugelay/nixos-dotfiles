@@ -4,7 +4,7 @@
   home.username = "markov";
   home.homeDirectory = "/home/markov";
   home.stateVersion = "25.05";
-#github token classic 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
+
   programs.bash = {
     enable = true;
     shellAliases = {
